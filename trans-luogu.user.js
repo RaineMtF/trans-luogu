@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Trans Luogu
-// @version      0.2
+// @version      0.3
 // @description  将洛谷的钩子变为蓝粉白
 // @author       RainPPR
 // @license      MIT
@@ -8,11 +8,7 @@
 // @match        *://*.luogu.com.cn/*
 // @match        *://*.luogu.com/*
 // @match        *://*.luogu.org/*
-// @exclude      *://*.luogu.com.cn/article/*
-// @exclude      *://*.luogu.com/article/*
-// @exclude      *://*.luogu.org/article/*
 // @connect      *
-// @require      https://code.jquery.com/jquery-3.7.1.min.js
 // @updateURL    https://github.com/RainPPR/trans-luogu/raw/refs/heads/main/trans-luogu.user.js
 // @downloadURL  https://github.com/RainPPR/trans-luogu/raw/refs/heads/main/trans-luogu.user.js
 // @supportURL   https://github.com/RainPPR/trans-luogu
@@ -21,7 +17,6 @@
 // ==/UserScript==
 
 // TODO: 鱼板钩
-// TODO: 专栏页（懒懒懒）
 
 (function() {
     'use strict';
