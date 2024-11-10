@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Trans Luogu
-// @version      1.1
-// @description  将洛谷的钩子变为蓝粉白
+// @version      1.2
+// @description  洛谷的蓝粉白化
 // @author       RainPPR
 // @license      MIT
 // @run-at       document-end
