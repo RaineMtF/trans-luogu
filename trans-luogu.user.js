@@ -1,16 +1,14 @@
 // ==UserScript==
 // @name         Trans Luogu
-// @version      1.2
+// @version      1.3
 // @description  洛谷的蓝粉白化
 // @author       RainPPR
 // @license      MIT
 // @run-at       document-end
 // @match        *://*.luogu.com.cn/*
 // @match        *://*.luogu.com/*
-// @match        *://*.luogu.org/*
 // @match        *://luogu.com.cn/*
 // @match        *://luogu.com/*
-// @match        *://luogu.org/*
 // @exclude      *://ti.luogu.com.cn/*
 // @exclude      *://class.luogu.com.cn/*
 // @connect      *
