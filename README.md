@@ -6,7 +6,7 @@
 
 1. 安装 Tampermonkey 等软件。
 
-2. 打开 <https://github.com/RainPPR/trans-luogu/raw/refs/heads/main/trans-luogu.user.js>。
+2. 打开 <https://github.com/RaineMtF/trans-luogu/raw/refs/heads/main/trans-luogu.user.js>。
 
 ## 功能
 
@@ -18,8 +18,10 @@
 
 + 蓝粉白钩。
 
++ 鱼板🍥钩。
+
 #### 没了
 
 ## TODO
 
-+ 鱼板风格钩子。
++ 主题蓝粉白化。
